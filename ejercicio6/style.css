@@ -1,0 +1,7 @@
+.caja {
+    width: 500px;
+    height: 500px;
+    border-image: url(./mario.png) 12.5 round;
+    border-image-width: 50px;
+    border-style: solid;
+}
